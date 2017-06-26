@@ -4,6 +4,9 @@ Tensorflow Release!
 
   tensorflow v1.0
   
+Extra Python modules
+
+  scipy, scikit-learn, opencv-python, h5py, matplotlib, Pillow, requests, psutil
   
 https://github.com/davidsandberg/facenet
 
