@@ -1,18 +1,18 @@
 # Face-Recognition-using-facenet
 
-Tensorflow Release!
+# Tensorflow Release!
 
   tensorflow v1.0
   
-Extra Python modules
+# Extra Python modules
 
   scipy, scikit-learn, opencv-python, h5py, matplotlib, Pillow, requests, psutil
-  
+# Pre-trained model download  
 https://github.com/davidsandberg/facenet
 
     Download pre-trained model '20170512-110547'
 
-Classifier Training
+# Classifier Training
 
 (create [pkl_file_name].pkl file) 
   
@@ -20,7 +20,7 @@ Classifier Training
 
 
 
-Classifier Test
+# Classifier Test
 
 (using [pkl_file_name].pkl file)
 
